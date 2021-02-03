@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NOMAD_movie_app/static/css/main.ff0c092d.chunk.css",
-    "main.js": "/NOMAD_movie_app/static/js/main.93884744.chunk.js",
-    "main.js.map": "/NOMAD_movie_app/static/js/main.93884744.chunk.js.map",
+    "main.css": "/NOMAD_movie_app/static/css/main.a81b734e.chunk.css",
+    "main.js": "/NOMAD_movie_app/static/js/main.cf7ab655.chunk.js",
+    "main.js.map": "/NOMAD_movie_app/static/js/main.cf7ab655.chunk.js.map",
     "runtime-main.js": "/NOMAD_movie_app/static/js/runtime-main.d616ada4.js",
     "runtime-main.js.map": "/NOMAD_movie_app/static/js/runtime-main.d616ada4.js.map",
-    "static/js/2.915a66f4.chunk.js": "/NOMAD_movie_app/static/js/2.915a66f4.chunk.js",
-    "static/js/2.915a66f4.chunk.js.map": "/NOMAD_movie_app/static/js/2.915a66f4.chunk.js.map",
+    "static/js/2.ea5fde4e.chunk.js": "/NOMAD_movie_app/static/js/2.ea5fde4e.chunk.js",
+    "static/js/2.ea5fde4e.chunk.js.map": "/NOMAD_movie_app/static/js/2.ea5fde4e.chunk.js.map",
     "index.html": "/NOMAD_movie_app/index.html",
-    "static/css/main.ff0c092d.chunk.css.map": "/NOMAD_movie_app/static/css/main.ff0c092d.chunk.css.map",
-    "static/js/2.915a66f4.chunk.js.LICENSE.txt": "/NOMAD_movie_app/static/js/2.915a66f4.chunk.js.LICENSE.txt"
+    "static/css/main.a81b734e.chunk.css.map": "/NOMAD_movie_app/static/css/main.a81b734e.chunk.css.map",
+    "static/js/2.ea5fde4e.chunk.js.LICENSE.txt": "/NOMAD_movie_app/static/js/2.ea5fde4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d616ada4.js",
-    "static/js/2.915a66f4.chunk.js",
-    "static/css/main.ff0c092d.chunk.css",
-    "static/js/main.93884744.chunk.js"
+    "static/js/2.ea5fde4e.chunk.js",
+    "static/css/main.a81b734e.chunk.css",
+    "static/js/main.cf7ab655.chunk.js"
   ]
 }
